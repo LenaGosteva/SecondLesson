@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Написать программу для расчёта N-го члена последовательности чисел Фибоначчи
 public class Task1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
